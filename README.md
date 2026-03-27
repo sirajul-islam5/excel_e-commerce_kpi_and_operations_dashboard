@@ -5,21 +5,21 @@ Developed an end-to-end operational dashboard to monitor key performance indicat
 
 
 **📌 KPI Metrics Tracked**
-📦 Total Orders — 2,400+
-💰 Total Revenue — $649k
-🛒 Total Quantity Sold — 11,997
-⭐ Average Customer Rating — 4.0
-🚚 Average Shipping Lead-Time — 2.3 days
+- Total Orders — 2,400+
+- Total Revenue — $649k
+- Total Quantity Sold — 11,997
+- Average Customer Rating — 4.0
+- Average Shipping Lead-Time — 2.3 days
 
 
 **✨ Key Features**
-📊 KPI Cards — Real-time summary of core business metrics
-🌡️ Heatmap Table — Customer behavior by gender across order channels
-📈 13-Week Trend Chart — Quantity and revenue trend analysis
-😊 Customer Satisfaction Chart — Monthly rating distribution
-🚚 Shipping Distribution Chart — Logistics performance by delivery days
-🛍️ Product Popularity Chart — Top products breakdown by gender
-🎛️ Interactive Slicers — Order Mode and Gender filters connected across all visuals
+- KPI Cards — Real-time summary of core business metrics
+- Heatmap Table — Customer behavior by gender across order channels
+- 13-Week Trend Chart — Quantity and revenue trend analysis
+- Customer Satisfaction Chart — Monthly rating distribution
+- Shipping Distribution Chart — Logistics performance by delivery days
+- Product Popularity Chart — Top products breakdown by gender
+- Interactive Slicers — Order Mode and Gender filters connected across all visuals
 
 
 **🛠️ Tools & Techniques Used**
@@ -37,5 +37,5 @@ Developed an end-to-end operational dashboard to monitor key performance indicat
 
 
 **📬 Connect**
-GitHub: sirajul-islam5
-LinkedIn: md-sirajul-islam57
+- GitHub: sirajul-islam5
+- LinkedIn: md-sirajul-islam57
