@@ -1,4 +1,4 @@
-**📊 KPI Analysis Dashboard — Microsoft Excel**
+**📊 E-commerce KPI and Operations Dashboard — Microsoft Excel**
 
 **🎯 Objective:**
 Developed an end-to-end operational dashboard to monitor key performance indicators, shipping efficiency, and customer satisfaction metrics — converting raw transactional data into structured, decision-ready insights.
@@ -27,6 +27,10 @@ Developed an end-to-end operational dashboard to monitor key performance indicat
 - Data Visualization — Trend Lines, Distribution Charts, Bar Charts
 - Dashboard Design — Multi-panel layout, color-coded KPI indicators
 - Logistics Analysis — Shipping lead-time tracking and performance monitoring
+
+
+**✨Acknowledgement:**
+This project was completed with guided instruction from an experienced instructor. I followed the instructor's walkthrough, adapted, and built the dashboard independently. All executed results and presentation reflect my own work.
 
 
 **💡 What This Project Demonstrates:**
