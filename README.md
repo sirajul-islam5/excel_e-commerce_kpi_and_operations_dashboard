@@ -1,16 +1,16 @@
-# 📊 E-commerce KPI & Operations Dashboard — Microsoft Excel
+# E-commerce KPI & Operations Dashboard — Microsoft Excel
 
 An interactive business intelligence dashboard built entirely in Microsoft Excel, designed to analyze and visualize key performance indicators (KPIs) across orders, sales, customer behavior, and product performance. This is a guided project completed as part of my data analytics learning journey. 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a fully interactive KPI dashboard that gives a 360-degree view of business performance. The dashboard is built to answer real business questions — from tracking weekly sales trends to understanding customer satisfaction and shipping efficiency — all within Excel using pivot tables, charts, and slicers.
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 | KPI | Value |
 |-----|-------|
@@ -22,7 +22,7 @@ This project presents a fully interactive KPI dashboard that gives a 360-degree 
 
 ---
 
-## 🔍 Dashboard Sections
+## Dashboard Sections
 
 **1. Last 13 Week Trends — Quantity & Amount**
 - Dual-axis line chart tracking weekly quantity and revenue side by side over a 13-week period
@@ -56,7 +56,7 @@ This project presents a fully interactive KPI dashboard that gives a 360-degree 
 
 ---
 
-## 🎛️ Interactive Filters (Slicers)
+## Interactive Filters (Slicers)
 
 - **Order Mode** — Filter by Instagram, Partner App, Target.com, Website
 - **Gender Value** — Filter by Female, Male, Other, Unknown
@@ -65,7 +65,7 @@ All charts and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🛠️ Tools & Features Used
+## Tools & Features Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -77,7 +77,7 @@ All charts and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - How to turn raw transactional data into an executive-level dashboard
 - Building dynamic, interconnected charts using pivot tables and slicers
@@ -87,7 +87,7 @@ All charts and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 👤 Author
+## Author
 
 **Md. Sirajul Islam**
 Data Aspirant | Excel Enthusiast
