@@ -90,7 +90,6 @@ All charts and KPI cards update dynamically based on slicer selections.
 ## Author
 
 **Md. Sirajul Islam**
-Data Aspirant | Excel Enthusiast
 
 ---
 
